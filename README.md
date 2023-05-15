@@ -5,5 +5,6 @@ Resources I found to be useful:
     2. https://www.crowdsupply.com/upside-down-labs/bioamp-exg-pill  
 I would also recommend going through my project report for a better overview. The next goal of this project would be to apply Machine Learning, mainly in the domain of pattern recognition.
 This is the link of Google drive with my report and presentation:
+
 https://drive.google.com/drive/folders/1UKoHyezmb9ztIE_hE8vdO294f5Y97f6k?usp=share_link .
 If you have any doubt, feel free to mail me at shubhamingale2303@gmail.com
